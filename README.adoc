@@ -1,1 +1,13 @@
-= justDeeevin: Devin Droddy
+= Hello! 
+
+I'm Devin. I'm a high school junior who probably spends too much time writing code. I'm almost entirely self-taught, and I've been programming for about 8 years. I mostly work in Rust these days, but I'm fluent in JavaScript and Typescript, and I can find my way around in plenty of other languages:
+
+.Some of them
+[%collapsible]
+====
+* Python
+* C
+* C++
+* C#
+* Java
+====
