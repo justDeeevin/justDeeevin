@@ -1,6 +1,8 @@
-= Hello! 
+:account: https://github.com/justdeeevin
 
-I'm Devin. I'm a high school junior who probably spends too much time writing code. I'm almost entirely self-taught, and I've been programming for about 8 years. I mostly work in Rust these days, but I'm fluent in JavaScript and Typescript, and I can find my way around in plenty of other languages:
+=== Hello! 
+
+I'm Devin. I'm a high school junior who probably spends too much time writing code. I'm almost entirely self-taught, and I've been programming for about 8 years. I mostly work in Rust these days, but I'm fluent in JavaScript and TypeScript, and I can find my way around in plenty of other languages:
 
 .Some of them
 [%collapsible]
@@ -11,3 +13,9 @@ I'm Devin. I'm a high school junior who probably spends too much time writing co
 * C#
 * Java
 ====
+
+I use {account}/nix-config[NixOS] at home and Windows on the go (Linux doesn't like my laptop's audio hardware). I code with {account}/nvim-config[Neovim]. I play lots of videogames, but mostly Counter-Strike.
+
+Go check out {account}/nuhxboard[NuhxBoard], my current pet project that's shaping up to be pretty awesome.
+
+Don't have a good day, have a great one.
