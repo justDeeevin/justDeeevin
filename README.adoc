@@ -2,17 +2,9 @@
 
 === Hello! 
 
-I'm Devin. I'm a high school junior who probably spends too much time writing code. I'm almost entirely self-taught, and I've been programming for about 8 years. I mostly work in Rust these days, but I'm fluent in JavaScript and TypeScript, and I can find my way around in plenty of other languages:
+I'm Devin. I'm a high school junior who probably spends too much time writing code. I'm almost entirely self-taught, and I've been programming for about 8 years.
 
-.Some of them
-[%collapsible]
-====
-* Python
-* C
-* C++
-* C#
-* Java
-====
+image::https://github-readme-stats.vercel.app/api?username=justdeeevin&show=prs_merged&show_icons=true&theme=transparent[My github usage stats, link=https://github.com/anuraghazra/github-readme-stats]
 
 I use {account}/nix-config[NixOS] at home and Windows on the go (Linux doesn't like my laptop's audio hardware). I code with {account}/nvim-config[Neovim]. I play lots of videogames, but mostly Counter-Strike.
 
