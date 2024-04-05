@@ -4,8 +4,8 @@
 
 I'm Devin. I'm a high school junior who probably spends too much time writing code. I'm almost entirely self-taught, and I've been programming for about 8 years.
 
-image::https://github-readme-stats.vercel.app/api?username=justdeeevin&show=prs_merged&show_icons=true&theme=transparent[My github stats, link=https://github.com/anuraghazra/github-readme-stats]
-image::https://github-readme-stats.vercel.app/api/top-langs?username=justdeeevin&layout=compact&exclude_repo=Notes-MD&theme=transparent[My language usage stats, link=https://github.com/anuraghazra/github-readme-stats]
+image:https://github-readme-stats.vercel.app/api?username=justdeeevin&show=prs_merged&show_icons=true&theme=transparent[My github stats, width=350, link=https://github.com/anuraghazra/github-readme-stats]
+image:https://github-readme-stats.vercel.app/api/top-langs?username=justdeeevin&layout=compact&exclude_repo=Notes-MD&theme=transparent[My language usage stats, link=https://github.com/anuraghazra/github-readme-stats]
 
 I use {account}/nix-config[NixOS] at home and Windows on the go (Linux doesn't like my laptop's audio hardware). I code with {account}/nvim-config[Neovim]. I play lots of videogames, but mostly Counter-Strike.
 
