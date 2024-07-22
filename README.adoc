@@ -7,8 +7,8 @@ I'm Devin. I'm a high school junior who probably spends too much time writing co
 image:https://github-readme-stats.vercel.app/api?username=justdeeevin&show=prs_merged&show_icons=true&theme=transparent[My github stats, width=350, link=https://github.com/anuraghazra/github-readme-stats]
 image:https://github-readme-stats.vercel.app/api/top-langs?username=justdeeevin&layout=compact&exclude_repo=Notes-MD&theme=transparent[My language usage stats, link=https://github.com/anuraghazra/github-readme-stats]
 
-I use {account}/nix-config[NixOS] at home and Windows on the go (Linux doesn't like my laptop's audio hardware). I code with {account}/nvim-config[Neovim]. I play lots of videogames, but mostly Counter-Strike.
+I use {account}/nix-config[NixOS] as my daily driver. I code with {account}/nvim-config[Neovim]. I play lots of videogames, but mostly Counter-Strike (I've been getting into Elden Ring lately, though).
 
-Go check out {account}/nuhxboard[NuhxBoard], my current pet project that's shaping up to be pretty awesome.
+Right now I'm working on {account}/cheer-app[a full-stack mobile data collection app for a local nonprofit].
 
 Don't have a good day, have a great one.
