@@ -6,6 +6,7 @@ I'm Devin. I'm a high school junior who probably spends too much time writing co
 
 image:https://github-readme-stats.vercel.app/api?username=justdeeevin&show=prs_merged&show_icons=true&theme=transparent[My github stats, width=350, link=https://github.com/anuraghazra/github-readme-stats]
 image:https://github-readme-stats.vercel.app/api/top-langs?username=justdeeevin&layout=compact&exclude_repo=Notes-MD&theme=transparent[My language usage stats, link=https://github.com/anuraghazra/github-readme-stats]
+image:https://github-profile-trophy.vercel.app/?username=justdeeevin&theme=darkhub[My github trophies, link=https://github.com/ryo-ma/github-profile-trophy]
 
 I use {account}/nix-config[NixOS] as my daily driver. I code with {account}/nvim-config[Neovim]. I play lots of videogames, but mostly Counter-Strike (I've been getting into Elden Ring lately, though).
 
