@@ -8,8 +8,8 @@ image:https://github-readme-stats.vercel.app/api?username=justdeeevin&show=prs_m
 image:https://github-readme-stats.vercel.app/api/top-langs?username=justdeeevin&layout=compact&exclude_repo=Notes-MD&theme=transparent[My language usage stats, link=https://github.com/anuraghazra/github-readme-stats]
 image:https://github-profile-trophy.vercel.app/?username=justdeeevin&theme=darkhub[My github trophies, link=https://github.com/ryo-ma/github-profile-trophy]
 
-I use {account}/nix-config[NixOS] as my daily driver. I code with {account}/nvim-config[Neovim]. I play lots of videogames, but mostly Counter-Strike (I've been getting into Elden Ring lately, though).
+I use {account}/nix-config[NixOS] as my daily driver. I code with {account}/nvim-config[Neovim]. I play lots of videogames, including Counter-Strike and Elden Ring.
 
-Right now I'm working on {account}/cheer-app[a full-stack mobile data collection app for a local nonprofit].
+Alongside school, I'm working with https://pyro.host[Pyro] on a secret project, writing rust code for multiplayer game server infrastructure.
 
 Don't have a good day, have a great one.
