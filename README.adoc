@@ -10,6 +10,6 @@ image:https://github-profile-trophy.vercel.app/?username=justdeeevin&theme=darkh
 
 I use {account}/nix-config[NixOS] as my daily driver. I code with {account}/nvim-config[Neovim]. I play lots of videogames, and I'm currently hooked on Deadlock.
 
-Alongside school, I'm working with https://pyro.host[Pyro] on a secret project, writing rust code for multiplayer game server infrastructure.
+I'm currently on the https://pyro.host[Pyro] team, helping to maintain and expand https://modrinth.com/servers[Modrinth Servers].
 
 Don't have a good day, have a great one.
