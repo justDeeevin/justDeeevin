@@ -10,6 +10,14 @@ image:https://github-profile-trophy.vercel.app/?username=justdeeevin&theme=darkh
 
 I use {account}/nix-config[NixOS] as my daily driver. I code with {account}/nvim-config[Neovim]. I play lots of videogames, and I'm currently hooked on Deadlock.
 
+I've become a bit of an avid Nix developer. I've been trying to contribute actively to nixpkgs.
+
+.Packages I maintain
+[%collapsible]
+====
+- https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/sy/syspower/package.nix[Syspower]
+====
+
 I'm currently on the https://pyro.host[Pyro] team, helping to maintain and expand https://modrinth.com/servers[Modrinth Servers].
 
 Don't have a good day, have a great one.
