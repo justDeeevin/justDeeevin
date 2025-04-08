@@ -1,4 +1,5 @@
 :account: https://github.com/justdeeevin
+:by-name: https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name
 
 === Hello! 
 
@@ -15,7 +16,9 @@ Lately I've become a bit of an avid Nix developer, and I've been trying to contr
 .Packages I maintain
 [%collapsible]
 ====
-- https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/sy/syspower/package.nix[Syspower]
+- {by-name}/sy/syspower/package.nix[Syspower]
+- {by-name}/as/ashell/package.nix[Ashell]
+- {by-name}/te/textlsp/package.nix[textlsp]
 ====
 
 I'm currently on the https://pyro.host[Pyro] team, building infrastructure for the future.
