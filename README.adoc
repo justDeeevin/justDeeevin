@@ -2,15 +2,15 @@
 
 === Hello! 
 
-I'm Devin. I'm a high school senior who probably spends too much time writing code. I'm almost entirely self-taught, and I've been programming for about 8 years.
+I'm Devin. I'm a high school senior who probably spends too much time writing code. Almost entirely self-taught, I've been programming for about 8 years.
 
-image:https://github-readme-stats.vercel.app/api?username=justdeeevin&show=prs_merged&show_icons=true&theme=transparent[My github stats, width=350, link=https://github.com/anuraghazra/github-readme-stats]
+image:https://github-readme-stats.vercel.app/api?username=justdeeevin&show=prs_merged&show_icons=true&theme=transparent[My GitHub stats, width=350, link=https://github.com/anuraghazra/github-readme-stats]
 image:https://github-readme-stats.vercel.app/api/top-langs?username=justdeeevin&layout=compact&exclude_repo=Notes-MD&theme=transparent[My language usage stats, link=https://github.com/anuraghazra/github-readme-stats]
-image:https://github-profile-trophy.vercel.app/?username=justdeeevin&theme=darkhub[My github trophies, link=https://github.com/ryo-ma/github-profile-trophy]
+image:https://github-profile-trophy.vercel.app/?username=justdeeevin&theme=darkhub&no-frame=true&column=6[My GitHub trophies, link=https://github.com/ryo-ma/github-profile-trophy]
 
-I use {account}/nix-config[NixOS] as my daily driver. I code with {account}/nvim-config[Neovim]. I play lots of videogames, and I'm currently hooked on Deadlock.
+I use {account}/nix-config[NixOS] as my daily driver, and I code with {account}/nvim-config[Neovim]. I play lots of video games, and I'm currently hooked on Deadlock.
 
-I've become a bit of an avid Nix developer. I've been trying to contribute actively to nixpkgs.
+Lately I've become a bit of an avid Nix developer, and I've been trying to contribute actively to nixpkgs.
 
 .Packages I maintain
 [%collapsible]
