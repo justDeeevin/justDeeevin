@@ -18,6 +18,6 @@ Lately I've become a bit of an avid Nix developer, and I've been trying to contr
 - https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/sy/syspower/package.nix[Syspower]
 ====
 
-I'm currently on the https://pyro.host[Pyro] team, helping to maintain and expand https://modrinth.com/servers[Modrinth Servers].
+I'm currently on the https://pyro.host[Pyro] team, building infrastructure for the future.
 
 Don't have a good day, have a great one.
