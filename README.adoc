@@ -18,6 +18,7 @@ Lately I've become a bit of an avid Nix developer, and I've been trying to contr
 ====
 - {by-name}/sy/syspower/package.nix[Syspower]
 - {by-name}/as/ashell/package.nix[Ashell]
+- https://github.com/nix-community/home-manager/blob/master/modules/programs/ashell.nix[Ashell home-manager module]
 - {by-name}/te/textlsp/package.nix[textlsp]
 ====
 
