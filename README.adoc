@@ -1,5 +1,6 @@
 :account: https://github.com/justdeeevin
 :by-name: https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name
+:hm-modules: https://github.com/nix-community/home-manager/blob/master/modules
 
 === Hello! 
 
@@ -18,8 +19,9 @@ Lately I've become a bit of an avid Nix developer, and I've been trying to contr
 ====
 - {by-name}/sy/syspower/package.nix[Syspower]
 - {by-name}/as/ashell/package.nix[Ashell]
-- https://github.com/nix-community/home-manager/blob/master/modules/programs/ashell.nix[Ashell home-manager module]
+- {hm-modules}/programs/ashell.nix[Ashell home-manager module]
 - {by-name}/te/textlsp/package.nix[textlsp]
+- {hm-modules}/programs/quickshell.nix[quickshell home-manager module]
 ====
 
 I'm currently on the https://pyro.host[Pyro] team, building infrastructure for the future.
