@@ -20,6 +20,7 @@ Lately I've become a bit of an avid Nix developer, and I've been trying to contr
 - {by-name}/sy/syspower/package.nix[Syspower]
 - {by-name}/as/ashell/package.nix[Ashell]
 - {hm-modules}/programs/ashell.nix[Ashell home-manager module]
+- https://github.com/nix-community/stylix/blob/master/modules/ashell/hm.nix[Ashell stylix module]
 - {by-name}/te/textlsp/package.nix[textlsp]
 - {hm-modules}/programs/quickshell.nix[quickshell home-manager module]
 ====
