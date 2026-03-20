@@ -8,7 +8,7 @@ I'm Devin. I'm a high school senior who probably spends too much time writing co
 
 image:https://github-readme-stats.vercel.app/api?username=justdeeevin&show=prs_merged&show_icons=true&theme=transparent[My GitHub stats, width=350, link=https://github.com/anuraghazra/github-readme-stats]
 image:https://github-readme-stats.vercel.app/api/top-langs?username=justdeeevin&layout=compact&exclude_repo=Notes-MD&theme=transparent[My language usage stats, link=https://github.com/anuraghazra/github-readme-stats]
-image:https://github-profile-trophy.vercel.app/?username=justdeeevin&theme=darkhub&no-frame=true&column=6[My GitHub trophies, link=https://github.com/ryo-ma/github-profile-trophy]
+image:https://trophy.ryglcloud.net/?username=justdeeevin&theme=darkhub&no-frame=true&column=6[My GitHub trophies, link=https://github.com/ryo-ma/github-profile-trophy]
 
 I use {account}/nix-config[NixOS] as my daily driver, and I code with {account}/nvim-config[Neovim]. I play lots of video games, and I'm currently hooked on Deadlock.
 
